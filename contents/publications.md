@@ -1,7 +1,5 @@
 
-#### Published
-
-##### Journal Articles
+#### Journal Articles
 
 1. <strong>Z. Luo</strong>, Y. Ma, Z. Yuan, P. Wei, W. Chen*, Q. Zhao, D. Chong, J. Yan, Effect of rolling motion and hole structure on flow and heat transfer characteristics of steam jet condensation through numerical simulation, <strong>International Communications in Heat and Mass Transfer</strong>. (IF: 6.4/JCR Q1, Top) [\[Paper\]](https://doi.org/10.1016/j.icheatmasstransfer.2025.108792)
 
