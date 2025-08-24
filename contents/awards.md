@@ -5,6 +5,8 @@
 
 - Shenyuan Scholarship (XJTU), 2024.
 
+- First-Prize Freshman Scholarship (XJTU), 2023.
+
 - Outstanding Undergraduate (XJTU), 2022.
 
 - School-level Scholarship (XJTU), 2022.
