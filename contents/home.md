@@ -1,6 +1,6 @@
 
 
-[Google Schoalr](https://scholar.google.com/citations?user=DkXY85cAAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=DkXY85cAAAAJ&hl=en)
 
 Zhenghang Luo is currently a Master student in the School of Energy and Power Engineering at Xi'an Jiaotong University.
 
