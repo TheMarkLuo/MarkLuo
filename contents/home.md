@@ -1,17 +1,17 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![MarkGoogle](GoogleScholar)](https://scholar.google.com/citations?user=DkXY85cAAAAJ&hl=en)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+Zhenghang Luo is currently a Master student in the School of Energy and Power Engineering at Xi'an Jiaotong University.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: luozh@stu.xjtu.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Power Engineering and Engineering Thermodynamics, China University of Mining and Technology, 2022—2025.\
+B.E., Process Equipment and Control Engineering & Bussiness Management (Dual degree), Xi'an Jiaotong University, 2019—2023.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Multiphase Flow, Heat and Mass Transfer, CFD, Renewable Energy
 
