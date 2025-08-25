@@ -9,7 +9,7 @@ Zhenghang Luo is currently a Master student in the School of Energy and Power En
 Email: luozh@stu.xjtu.edu.cn
 
 #### Education
-M.E., Power Engineering and Engineering Thermodynamics, China University of Mining and Technology, 2022—2025.\
+M.E., Power Engineering and Engineering Thermodynamics, State Key Laboratory of Multiphase Flow in Power Engineering, Xi'an Jiaotong University, 2023—2026.\
 B.E., Process Equipment and Control Engineering & Bussiness Management (Dual degree), Xi'an Jiaotong University, 2019—2023.
 
 #### Research Interests

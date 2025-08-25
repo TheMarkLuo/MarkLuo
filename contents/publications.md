@@ -18,4 +18,4 @@
 
 2. W. Chen*, <strong>Z. Luo</strong>, J. Li, Q. Zhao, D. Chong, J. Yan. Numerical study on the flow field of steam condensation in the suppression pool by multi-hole spargers. International Multiphase Flow Technology Forum 2024, Dali.
 
-3. <strong>罗正航</strong>, 李敬宇, 陈伟雄, 种道彤, 严俊杰. 摇摆运动下低流率蒸汽冷凝换热特性和汽泡受力数值模拟研究, 2023年中国工程热物理学会多相流年会, 上海.
+3. <strong>罗正航</strong>, 李敬宇, 陈伟雄*, 种道彤, 严俊杰. 摇摆运动下低流率蒸汽冷凝换热特性和汽泡受力数值模拟研究, 2023年中国工程热物理学会多相流年会, 上海.
