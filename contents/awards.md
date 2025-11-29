@@ -1,3 +1,4 @@
+- Special Grade Scholarship (XJTU), 2025.
 
 - National Scholarship for Graduate Student, 2024.
 
