@@ -9,10 +9,10 @@ Zhenghang Luo is currently a PhD student at the ERL lab in the Sibley School of 
 Email: zl2353@cornell.edu
 
 #### Education
-PhD, Mechanical Engineering, ERL lab, Sibley School of Mechanical and Aerospace Engineering, Cornell University, 2026-now.\
-M.E., Power Engineering and Engineering Thermophysics, State Key Laboratory of Multiphase Flow in Power Engineering, Xi'an Jiaotong University, 2023-2026.\
-B.E., Process Equipment and Control Engineering & Bussiness Management (Dual degree), Xi'an Jiaotong University, 2019-2023.
+<strong>PhD<strong>, Mechanical Engineering, ERL lab, Sibley School of Mechanical and Aerospace Engineering, Cornell University, 2026-now.\
+<strong>M.E.<strong>, Power Engineering and Engineering Thermophysics, State Key Laboratory of Multiphase Flow in Power Engineering, Xi'an Jiaotong University, 2023-2026.\
+<strong>B.E.<strong>, Process Equipment and Control Engineering & Bussiness Management (Dual degree), Xi'an Jiaotong University, 2019-2023.
 
 #### Research Interests
-Electrochemistry, Multiphase Flow, Heat and Mass Transfer, CFD, Renewable Energy
+Electrochemistry, Interfacial Transport, Heat and Mass Transfer, CFD, Renewable Energy
 
