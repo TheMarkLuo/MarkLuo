@@ -2,16 +2,17 @@
 
 [Google Scholar](https://scholar.google.com/citations?user=DkXY85cAAAAJ&hl=en)
 
-Zhenghang Luo is currently a Master student at the State Key Laboratory of Multiphase Flow in Power Engineering in the School of Energy and Power Engineering at Xi'an Jiaotong University.
+Zhenghang Luo is currently a PhD student at the ERL lab in the Sibley School of Mechanical and Aerospace Engineering at Cornell University.
 
 #### Contact
 
-Email: luozh@stu.xjtu.edu.cn
+Email: zl2353@cornell.edu
 
 #### Education
+PhD, Mechanical Engineering, ERL lab, Sibley School of Mechanical and Aerospace Engineering, Cornell University, 2026-now.\
 M.E., Power Engineering and Engineering Thermophysics, State Key Laboratory of Multiphase Flow in Power Engineering, Xi'an Jiaotong University, 2023-2026.\
 B.E., Process Equipment and Control Engineering & Bussiness Management (Dual degree), Xi'an Jiaotong University, 2019-2023.
 
 #### Research Interests
-Multiphase Flow, Heat and Mass Transfer, CFD, Renewable Energy
+Electrochemistry, Multiphase Flow, Heat and Mass Transfer, CFD, Renewable Energy
 
